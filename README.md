@@ -60,9 +60,9 @@ Key constants can be tuned at the top of `Nbody.c`:
  
 ## Controls
  
-1.Left Click to place object
-2.To increase mass and radius use your scroll wheel while cursor is still on the object
-3.(Left/Right)Ctrl + scroll to zoom in and out 
+1.Left Click to place object.
+2.To increase mass and radius use your scroll wheel while cursor is still on the object.
+3.(Left/Right)Ctrl + scroll to zoom in and out.
  
 ## License
  
